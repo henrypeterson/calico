@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calico</string>
+    <string name="input_value">Enter a word</string>
+    <string name="button_send">Scheme</string>
+</resources>
